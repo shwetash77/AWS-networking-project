@@ -273,10 +273,4 @@ Potential improvements to this architecture include:
 
 ---
 
-## 👩🏽‍💻 Author
 
-**Nokuthula Patience Zulu**
-
-Cloud / DevOps Engineering Portfolio
-
-GitHub: [Nok2lapatience](https://github.com/Nok2lapatience)
